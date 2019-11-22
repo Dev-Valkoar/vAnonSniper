@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\bin\Debug\vAnonSniper.exe.config
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\bin\Debug\vAnonSniper.exe
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\bin\Debug\vAnonSniper.pdb
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\bin\Debug\Colorful.Console.dll
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\obj\Debug\vAnonSniper.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\obj\Debug\vAnonSniper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\obj\Debug\vAnonSniper.csproj.CopyComplete
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\obj\Debug\vAnonSniper.exe
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\obj\Debug\vAnonSniper.pdb
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\bin\Debug\xNet.dll
+C:\Users\Administrator\source\repos\vAnonSniper\vAnonSniper\bin\Debug\Newtonsoft.Json.xml
